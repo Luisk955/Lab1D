@@ -1,0 +1,2 @@
+23232323,Juan,Perez,San Jose,23232323,Sede Central,12
+45454545,Esteban,Vargas,Moravia,78989878,Sede Atlantico,5
